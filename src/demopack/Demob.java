@@ -6,7 +6,7 @@ public class Demob {
 		
 		Demob obj = new Demob();
 		int product = obj.multiply(5,6);
-		System.out.println(product);
+		System.out.println("Output is " + product);
 		
 	}
 	
